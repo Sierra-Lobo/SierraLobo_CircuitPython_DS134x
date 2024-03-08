@@ -1,0 +1,12 @@
+
+[project]
+name = "sierralobo-circuitpython-ds134x"
+description = "real time clock library"
+version = "0.0.0+auto.0"
+readme = "README.rst"
+authors = [
+    {name = "Caden Hillis"}
+]
+
+[project.urls]
+Homepage = "https://github.com/Sierra-Lobo/Adafruit_CircuitPython_DS134x"
